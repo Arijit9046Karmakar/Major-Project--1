@@ -1,4 +1,4 @@
-#Social Media Data Analysis with SQL
+# Social Media Data Analysis with SQL
 #Project Overview
 # This project focuses on analyzing social media data using SQL to answer a variety of questions about user behavior, post engagement, trends, and interactions. The dataset used in this 
   project simulates typical social media activities, including user profiles, posts, comments, likes, and other interactions. The goal is to extract meaningful insights by writing SQL 
